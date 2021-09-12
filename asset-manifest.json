@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TMDB-Project/static/css/main.514872aa.chunk.css",
-    "main.js": "/TMDB-Project/static/js/main.e0da2eb5.chunk.js",
-    "main.js.map": "/TMDB-Project/static/js/main.e0da2eb5.chunk.js.map",
+    "main.js": "/TMDB-Project/static/js/main.59efcf2e.chunk.js",
+    "main.js.map": "/TMDB-Project/static/js/main.59efcf2e.chunk.js.map",
     "runtime-main.js": "/TMDB-Project/static/js/runtime-main.90ce8c0d.js",
     "runtime-main.js.map": "/TMDB-Project/static/js/runtime-main.90ce8c0d.js.map",
     "static/js/2.772f8d4e.chunk.js": "/TMDB-Project/static/js/2.772f8d4e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.90ce8c0d.js",
     "static/js/2.772f8d4e.chunk.js",
     "static/css/main.514872aa.chunk.css",
-    "static/js/main.e0da2eb5.chunk.js"
+    "static/js/main.59efcf2e.chunk.js"
   ]
 }
