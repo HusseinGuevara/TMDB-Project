@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/TMDB-Project/static/css/main.8a93352f.chunk.css",
-    "main.js": "/TMDB-Project/static/js/main.10dcecac.chunk.js",
-    "main.js.map": "/TMDB-Project/static/js/main.10dcecac.chunk.js.map",
-    "runtime-main.js": "/TMDB-Project/static/js/runtime-main.810c74f0.js",
-    "runtime-main.js.map": "/TMDB-Project/static/js/runtime-main.810c74f0.js.map",
-    "static/js/2.bed4f955.chunk.js": "/TMDB-Project/static/js/2.bed4f955.chunk.js",
-    "static/js/2.bed4f955.chunk.js.map": "/TMDB-Project/static/js/2.bed4f955.chunk.js.map",
-    "static/js/3.77e46647.chunk.js": "/TMDB-Project/static/js/3.77e46647.chunk.js",
-    "static/js/3.77e46647.chunk.js.map": "/TMDB-Project/static/js/3.77e46647.chunk.js.map",
+    "main.js": "/TMDB-Project/static/js/main.6e4abbe2.chunk.js",
+    "main.js.map": "/TMDB-Project/static/js/main.6e4abbe2.chunk.js.map",
+    "runtime-main.js": "/TMDB-Project/static/js/runtime-main.68f61d56.js",
+    "runtime-main.js.map": "/TMDB-Project/static/js/runtime-main.68f61d56.js.map",
+    "static/js/2.3f70cea3.chunk.js": "/TMDB-Project/static/js/2.3f70cea3.chunk.js",
+    "static/js/2.3f70cea3.chunk.js.map": "/TMDB-Project/static/js/2.3f70cea3.chunk.js.map",
+    "static/js/3.b24ea124.chunk.js": "/TMDB-Project/static/js/3.b24ea124.chunk.js",
+    "static/js/3.b24ea124.chunk.js.map": "/TMDB-Project/static/js/3.b24ea124.chunk.js.map",
     "index.html": "/TMDB-Project/index.html",
     "static/css/main.8a93352f.chunk.css.map": "/TMDB-Project/static/css/main.8a93352f.chunk.css.map",
-    "static/js/2.bed4f955.chunk.js.LICENSE.txt": "/TMDB-Project/static/js/2.bed4f955.chunk.js.LICENSE.txt",
+    "static/js/2.3f70cea3.chunk.js.LICENSE.txt": "/TMDB-Project/static/js/2.3f70cea3.chunk.js.LICENSE.txt",
     "static/media/tmdblogo.e73804e8.jpg": "/TMDB-Project/static/media/tmdblogo.e73804e8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.810c74f0.js",
-    "static/js/2.bed4f955.chunk.js",
+    "static/js/runtime-main.68f61d56.js",
+    "static/js/2.3f70cea3.chunk.js",
     "static/css/main.8a93352f.chunk.css",
-    "static/js/main.10dcecac.chunk.js"
+    "static/js/main.6e4abbe2.chunk.js"
   ]
 }
