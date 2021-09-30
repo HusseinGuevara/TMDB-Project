@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TMDB-Project/static/css/main.8b7736b7.chunk.css",
-    "main.js": "/TMDB-Project/static/js/main.ec1a6cb6.chunk.js",
-    "main.js.map": "/TMDB-Project/static/js/main.ec1a6cb6.chunk.js.map",
-    "runtime-main.js": "/TMDB-Project/static/js/runtime-main.22f03760.js",
-    "runtime-main.js.map": "/TMDB-Project/static/js/runtime-main.22f03760.js.map",
-    "static/js/2.cb35c392.chunk.js": "/TMDB-Project/static/js/2.cb35c392.chunk.js",
-    "static/js/2.cb35c392.chunk.js.map": "/TMDB-Project/static/js/2.cb35c392.chunk.js.map",
-    "static/js/3.3c22f6f5.chunk.js": "/TMDB-Project/static/js/3.3c22f6f5.chunk.js",
-    "static/js/3.3c22f6f5.chunk.js.map": "/TMDB-Project/static/js/3.3c22f6f5.chunk.js.map",
+    "main.css": "/TMDB-Project/static/css/main.8a93352f.chunk.css",
+    "main.js": "/TMDB-Project/static/js/main.10dcecac.chunk.js",
+    "main.js.map": "/TMDB-Project/static/js/main.10dcecac.chunk.js.map",
+    "runtime-main.js": "/TMDB-Project/static/js/runtime-main.810c74f0.js",
+    "runtime-main.js.map": "/TMDB-Project/static/js/runtime-main.810c74f0.js.map",
+    "static/js/2.bed4f955.chunk.js": "/TMDB-Project/static/js/2.bed4f955.chunk.js",
+    "static/js/2.bed4f955.chunk.js.map": "/TMDB-Project/static/js/2.bed4f955.chunk.js.map",
+    "static/js/3.77e46647.chunk.js": "/TMDB-Project/static/js/3.77e46647.chunk.js",
+    "static/js/3.77e46647.chunk.js.map": "/TMDB-Project/static/js/3.77e46647.chunk.js.map",
     "index.html": "/TMDB-Project/index.html",
-    "static/css/main.8b7736b7.chunk.css.map": "/TMDB-Project/static/css/main.8b7736b7.chunk.css.map",
-    "static/js/2.cb35c392.chunk.js.LICENSE.txt": "/TMDB-Project/static/js/2.cb35c392.chunk.js.LICENSE.txt",
+    "static/css/main.8a93352f.chunk.css.map": "/TMDB-Project/static/css/main.8a93352f.chunk.css.map",
+    "static/js/2.bed4f955.chunk.js.LICENSE.txt": "/TMDB-Project/static/js/2.bed4f955.chunk.js.LICENSE.txt",
     "static/media/tmdblogo.e73804e8.jpg": "/TMDB-Project/static/media/tmdblogo.e73804e8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.22f03760.js",
-    "static/js/2.cb35c392.chunk.js",
-    "static/css/main.8b7736b7.chunk.css",
-    "static/js/main.ec1a6cb6.chunk.js"
+    "static/js/runtime-main.810c74f0.js",
+    "static/js/2.bed4f955.chunk.js",
+    "static/css/main.8a93352f.chunk.css",
+    "static/js/main.10dcecac.chunk.js"
   ]
 }
