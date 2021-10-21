@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TMDB-Project/static/css/main.4c5ffce4.chunk.css",
-    "main.js": "/TMDB-Project/static/js/main.6f43c2b0.chunk.js",
-    "main.js.map": "/TMDB-Project/static/js/main.6f43c2b0.chunk.js.map",
+    "main.css": "/TMDB-Project/static/css/main.22687203.chunk.css",
+    "main.js": "/TMDB-Project/static/js/main.604c42b3.chunk.js",
+    "main.js.map": "/TMDB-Project/static/js/main.604c42b3.chunk.js.map",
     "runtime-main.js": "/TMDB-Project/static/js/runtime-main.a1b63411.js",
     "runtime-main.js.map": "/TMDB-Project/static/js/runtime-main.a1b63411.js.map",
     "static/js/2.5a64245a.chunk.js": "/TMDB-Project/static/js/2.5a64245a.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.dc3611f7.chunk.js": "/TMDB-Project/static/js/3.dc3611f7.chunk.js",
     "static/js/3.dc3611f7.chunk.js.map": "/TMDB-Project/static/js/3.dc3611f7.chunk.js.map",
     "index.html": "/TMDB-Project/index.html",
-    "static/css/main.4c5ffce4.chunk.css.map": "/TMDB-Project/static/css/main.4c5ffce4.chunk.css.map",
+    "static/css/main.22687203.chunk.css.map": "/TMDB-Project/static/css/main.22687203.chunk.css.map",
     "static/js/2.5a64245a.chunk.js.LICENSE.txt": "/TMDB-Project/static/js/2.5a64245a.chunk.js.LICENSE.txt",
     "static/media/tmdblogo.e73804e8.jpg": "/TMDB-Project/static/media/tmdblogo.e73804e8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1b63411.js",
     "static/js/2.5a64245a.chunk.js",
-    "static/css/main.4c5ffce4.chunk.css",
-    "static/js/main.6f43c2b0.chunk.js"
+    "static/css/main.22687203.chunk.css",
+    "static/js/main.604c42b3.chunk.js"
   ]
 }
